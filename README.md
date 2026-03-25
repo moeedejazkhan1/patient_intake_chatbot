@@ -1,4 +1,4 @@
-# Assort Health Chatbot
+# Assort Health Chatbot - Moeed Ejaz Khan
 
 A conversational AI-powered patient intake system for scheduling medical appointments. The chatbot guides patients through a structured workflow to collect information, validate addresses, and book appointments with healthcare providers.
 
@@ -139,7 +139,3 @@ assort-health-chatbot/
 ├── instructions.md             # Setup instructions
 └── README.md                   # This file
 ```
-
-## License
-
-MIT
